@@ -1,10 +1,23 @@
-# Hi, I’m Ava Marefati 👋
+# Hi,and welcome to my Github Profile
+I’m Ava Saeedi 👋
 
-### Business Intelligence Analyst | Power BI · SQL · Construction Analytics
+### Technology enthusiast working at the intersection of construction, research and data
 
-I build decision-support dashboards that turn complex operational and public data into clear business insights.
+I began my career as an architect with Al-Ahmadiah Construction in the United Arab Emirates before moving into civil project management and project engineering in the oil and gas sector.
 
-My background in construction project delivery and project controls gives me practical understanding of cost, schedule, quality and performance reporting—not only data visualisation.
+Relocating to Australia became a turning point in my career. After nearly two years in project engineering and coordination within the energy industry, I decided to pursue the field I had been interested in for years: data and business intelligence.
+
+Alongside my industry experience, I have contributed to three construction research papers exploring applications of artificial intelligence, machine learning and large language models.
+
+In December 2025, I left my engineering position to focus fully on this direction. Since January 2026, I have provided freelance business analysis and reporting support to more than five Australian businesses. My work has included identifying process gaps, investigating operational problems and developing dashboards that improve performance visibility and support better decisions.
+
+I now build decision-support dashboards that transform complex operational and public data into clear, practical business insights.
+
+My background in project delivery and project controls means I understand the decisions behind the data—including cost, schedule, quality, risk and performance—not only how to visualise it.
+
+
+
+Most publicable project where i can share (not confidential) with you are:
 
 ## Featured Projects
 
@@ -31,7 +44,7 @@ A Power BI analysis of Australian private health insurance data designed to iden
 * Market and insurer comparisons
 * Changes in performance over time
 
-## Core Capabilities
+## My Core Capabilities help your business are:
 
 * **Business Intelligence:** Power BI, DAX, data modelling and dashboard design
 * **Data Analysis:** SQL, Excel, Power Query, Python and Pandas
