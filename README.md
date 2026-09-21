@@ -32,13 +32,17 @@ Today, I build decision-support dashboards using Power BI, SQL, Excel and Python
 - Pandas
 - Streamlit
 - Neo4j
-- Machine Learning fundamentals
+- Machine Learning 
+- Visual Studio
 
 ### Project & Construction Systems
 - Primavera P6
 - Aconex
 - Procore
 - Revit
+- AutoCad 2D & 3D
+- SAP 
+-Bluebeam
 
 ### Development & Collaboration
 - Git
