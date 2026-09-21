@@ -16,3 +16,31 @@ Today, I build decision-support dashboards using Power BI, SQL, Excel and Python
 * 🌱 I’m expanding my skills in Power BI, SQL, Python and machine learning.
 * 📊 I enjoy turning complicated data into clear business stories.
 * 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/avasaeedi).
+
+## 🚀 Tools & Technologies
+
+### Business Intelligence & Data Analytics
+- Power BI
+- DAX
+- SQL
+- Excel
+- Power Query
+- Tableau
+
+### Programming & Data Science
+- Python
+- Pandas
+- Streamlit
+- Neo4j
+- Machine Learning fundamentals
+
+### Project & Construction Systems
+- Primavera P6
+- Aconex
+- Procore
+- Revit
+
+### Development & Collaboration
+- Git
+- GitHub
+- Jupyter Notebook
